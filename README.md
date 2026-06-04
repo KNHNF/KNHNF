@@ -22,7 +22,7 @@ BSc Computer Engineering, 1st in graduating class (GPA 18.87/20). Enterprise sch
 ### Stack
 
 ```
-Languages    Python · SQL · JavaScript (advanced) · HTML/CSS (advanced)
+Languages    Python · SQL · JavaScript · HTML/CSS
 Data & ML    Pandas · NumPy · Scikit-learn · Faster Whisper · LLM fine-tuning · Time-series
 Databases    MySQL · PostgreSQL · MongoDB
 Deploy       Cloudflare Pages · GitHub Actions · Streamlit · Hugging Face Spaces
