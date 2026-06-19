@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0a1a2e,65:0284c7,100:2dd4bf&height=155&section=header&text=Karan+Homayounfar&fontSize=34&fontColor=e6edf3&fontAlignY=48&desc=Data+Scientist+%26+Developer+%7C+MSc+UWE+Bristol&descSize=13&descAlignY=70&descFontColor=8b949e" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,30:0a1a2e,65:0284c7,100:2dd4bf&amp;height=155&amp;section=header&amp;text=Karan+Homayounfar&amp;fontSize=34&amp;fontColor=e6edf3&amp;fontAlignY=48&amp;desc=Data+Scientist+%26+Developer+%7C+MSc+UWE+Bristol&amp;descSize=13&amp;descAlignY=70&amp;descFontColor=8b949e" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=520&lines=Building+pipelines%2C+models+%26+web+systems;BSc+1st+class+%C2%B7+GPA+18.87%2F20;Open+to+internships+%26+freelance" alt="Typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=15&amp;duration=3200&amp;pause=900&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=520&amp;lines=Building+pipelines%2C+models+%26+web+systems;BSc+1st+class+%C2%B7+GPA+18.87%2F20;Open+to+internships+%26+freelance" alt="Typing" />
 
 </div>
 
