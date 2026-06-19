@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=15&amp;duration=3200&amp;pause=900&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=520&amp;lines=Building+pipelines%2C+models+%26+web+systems;BSc+1st+class+%C2%B7+GPA+18.87%2F20;Open+to+internships+%26+freelance" alt="Typing" />
+# Karan Homayounfar
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=520&lines=Building+pipelines%2C+models+%26+web+systems;BSc+1st+class+%C2%B7+GPA+18.87%2F20;Open+to+internships+%26+freelance" alt="Typing" />
 
 </div>
 
@@ -79,7 +81,5 @@ I build things that ship — from Elexon BMRS forecasting pipelines to local-LLM
 [![Email](https://img.shields.io/badge/Email-contact-EA4335?style=flat-square&logo=gmail)](mailto:karanhomayounfar2@gmail.com)
 
 *Bristol, UK · Open to internships and freelance · [knhnf.github.io](https://knhnf.github.io)*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2dd4bf,35:0284c7,70:0a1a2e,100:0d1117&height=100&section=footer" width="100%"/>
 
 </div>
