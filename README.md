@@ -1,9 +1,5 @@
 <div align="center">
 
-<img src="https://svgwave.in/api?wave=top&color=0284c7&height=150" width="100%">
-
-
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=15&amp;duration=3200&amp;pause=900&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=520&amp;lines=Building+pipelines%2C+models+%26+web+systems;BSc+1st+class+%C2%B7+GPA+18.87%2F20;Open+to+internships+%26+freelance" alt="Typing" />
 
 </div>
