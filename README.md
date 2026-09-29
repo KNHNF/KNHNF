@@ -16,7 +16,7 @@ MSc Data Science at UWE Bristol, focused on GB energy markets, forecasting and t
 
 | Project | What it does | Stack | Status |
 |:--|:--|:--|:--:|
-| [GB Balancing Mechanism Forecasting](https://karan-portfolio-al7.pages.dev/projects/dissertation/) | Forecasting total GB balancing mechanism cost per settlement period, a target no published GB study models directly. LEAR baseline vs XGBoost and LSTM, rolling-window evaluation, Diebold-Mariano testing | Python · XGBoost · LSTM | 🔵 Due Jan 2027 |
+| [GB Balancing Mechanism Forecasting](https://karan-portfolio-al7.pages.dev/projects/dissertation/) | Forecasting total GB balancing mechanism cost per settlement period, a target I found no published GB study modelling directly. LEAR baseline vs XGBoost and LSTM, rolling-window evaluation, Diebold-Mariano testing | Python · XGBoost · LSTM | 🔵 Due Jan 2027 |
 | [SME Reception LLM](https://github.com/KNHNF/sme-reception-llm) | Local LLM phone handler for SMEs: QLoRA fine-tuning, FastAPI backend, Faster-Whisper STT | Python · FastAPI · Ollama | 🟡 Prototype |
 | [EPC Retrofit Potential (ML)](https://github.com/KNHNF/epc-retrofit-potential-ml) | Predicting UK residential retrofit potential from EPC open data: Random Forest, XGBoost, Logistic Regression and SVM under nested cross-validation | Python · scikit-learn · XGBoost | ✅ Done |
 | [SmartQuote Assistant](https://github.com/KNHNF/smartquote-assistant) | Email extraction + quote reply automation, 96% field accuracy | Python · Ollama · OpenAI | ✅ Done |
