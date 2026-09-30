@@ -8,7 +8,7 @@
 
 ---
 
-MSc Data Science at UWE Bristol, focused on GB energy markets, forecasting and time-series ML. BSc Computer Engineering, **1st in class** (GPA 18.87/20). Enterprise Scholarship. Student Rep Gold Award. I build things that ship: Elexon BMRS forecasting pipelines, local-LLM phone systems, and production web platforms.
+MSc Data Science at UWE Bristol, focused on GB energy markets, forecasting and time-series ML. BSc Computer Engineering, **1st in class** (GPA 18.87/20). Enterprise Scholarship. Student Rep Gold Award. My dissertation forecasts total GB balancing cost from Elexon and NESO data. I have also built an offline voice assistant prototype and a retail KPI pipeline.
 
 ---
 
